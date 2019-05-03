@@ -15,7 +15,7 @@ $npm run start
 Ready to work...
 ```
 
-打開browser，至http://localhost:3000/即可開啟`儀表板`頁面
+打開browser，至`http://localhost:3000/`即可開啟`儀表板`頁面
 ![dashboard]
 
 功能包含
@@ -35,4 +35,4 @@ Ready to work...
 > 產生[1.1.1.1-1.1.1.5]一輪0~5次request共`times`次
 
 
-[dashboard]: asset/readme/dashboard.png  "Optional title attribute"
+[dashboard]: asset/readme/dashboard.png  " "
