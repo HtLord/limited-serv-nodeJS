@@ -35,4 +35,4 @@ Ready to work...
 > 產生[1.1.1.1-1.1.1.5]一輪0~5次request共`times`次
 
 
-[dashboard]: url/to/image  "Optional title attribute"
+[dashboard]: asset/readme/dashboard.png  "Optional title attribute"
