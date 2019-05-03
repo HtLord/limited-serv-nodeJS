@@ -34,5 +34,9 @@ Ready to work...
 > **/fake/random/:times**<br  />
 > 產生[1.1.1.1-1.1.1.5]一輪0~5次request共`times`次
 
+其他
+---
+[測試報告][doc]
 
+[doc]: https://github.com/HtLord/limited-serv-nodeJS/tree/report-test/doc ""
 [dashboard]: asset/readme/dashboard.png  " "
