@@ -1,5 +1,11 @@
 var records = [];
 
+/*
+    以此JavaScript來模擬DB。
+    Array<Object>來記錄，Object包括ip、計數器、下一次刷新限制時間
+    Array是為了可以利用map以及filter
+ */
+
 createRecord = (ip)=>{
     var d = new Date();
     if(records){
